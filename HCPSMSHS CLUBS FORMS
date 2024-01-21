@@ -1,0 +1,76 @@
+<html>
+<head><title> HCPSMSHS clubs registration form </title></head>
+<body bgcolor="sky blue">
+<center>
+<form action="mailto: cmvlag2017@gmail.com" method="post">
+<h1> HCPSMSHS clubs registration form </h1>
+<h4> pls put in your email or number
+<center> <input type="text" name="email or number" placeholder="email or number" required>
+<h4> pls put in your first name
+<center><input type="text" name="first name" placeholder="first name" required>
+<h4> pls put in your middle name
+<center><input type="text" name="middle name" placeholder="middle name" required>
+<h4> pls put in your middle name
+<center><input type="text" name=" last name" placeholder="last name" required>
+
+<br>
+<h4>when is your birthday?
+ <center> <input type="date">
+<br>
+<h4> what is your gender? 
+<br>
+<input type="radio"name="gender" value="male" >male
+<br>
+<input type="radio"name="gender" value="female" >female
+<br>
+<input type="radio"name="gender" value="non-binary" >non-binary
+<h4> what is your grade level? 
+<br>
+<input type="radio"name="grade" value="grade 7" >grade 7
+<br>
+<input type="radio"name="grade" value="grade 8" >grade 8
+<br>
+<input type="radio"name="grade" value="grade 9" >grade 9
+<br>
+<input type="radio"name="grade" value="grade 10" >grade 10
+<br>
+<input type="radio"name="grade" value="grade 11" >grade 11
+<br>
+<input type="radio"name="grade" value="grade 12" >grade 12
+<h4> which club/s or org/s. would you like to join
+<br>
+<input type="checkbox"name="clubs" value="basketball" >basketball
+<br>
+<input type="checkbox"name="clubs" value="volleyball" >volleyball
+<br>
+<input type="checkbox"name="clubs" value="badminton" >badminton
+<br>
+<input type="checkbox"name="clubs" value="swimming" >swimming
+<br>
+<input type="checkbox"name="clubs" value="archery" >archery
+<br>
+<input type="checkbox"name="clubs" value="BSP" >BSP
+<br>
+<input type="checkbox"name="clubs" value="GSP" >GSP
+<br>
+<input type="checkbox"name="clubs" value="CAT" >CAT
+
+<br>
+
+<br>
+
+
+<input type="submit">
+<input type="reset">
+<br>
+
+
+</center>
+                                                                                                                                    
+
+<center>feedback</center>
+
+
+</html>
+
+<textarea>
